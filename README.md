@@ -11,3 +11,4 @@ This tool will be useful when creating custom seven segment symbols for displays
 ## Configure Mapping
 To configure the mapping between segments and bits,
 just drag and drop items (segment names) into the ListBox to change their order.
+![Reorder](https://user-images.githubusercontent.com/40123161/203853047-eb160532-83fe-4728-81b7-1ad3fd0c8c96.png)
