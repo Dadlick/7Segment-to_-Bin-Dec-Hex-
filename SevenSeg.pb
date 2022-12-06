@@ -485,7 +485,7 @@ Procedure DrawWindow()
       SetButtonFont(i, FontID(#Font_10))
     Next i
     
-    ContainerGadget(Container0, 172, 15, 40, 210, #PB_Container_BorderLess | #PB_Container_Flat)
+    ContainerGadget(Container0, 172, 15, 20, 210, #PB_Container_BorderLess | #PB_Container_Flat)
     ListViewGadget(ListView1, 0, 0, 20, 210)
     CloseGadgetList()
     ContainerGadget(Container1, 193, 15, 40, 210, #PB_Container_BorderLess | #PB_Container_Flat)
@@ -721,8 +721,8 @@ CompilerSelect #PB_Compiler_OS
     EndDataSection
 CompilerEndSelect      
 ; IDE Options = PureBasic 6.00 LTS (Windows - x64)
-; CursorPosition = 590
-; FirstLine = 556
+; CursorPosition = 487
+; FirstLine = 355
 ; Folding = ---
 ; EnableXP
 ; DPIAware
